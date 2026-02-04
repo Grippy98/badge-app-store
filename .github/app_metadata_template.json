@@ -1,0 +1,13 @@
+{
+  "id": "my-app",
+  "name": "My App Name",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "Short description of what the app does",
+  "category": "apps",
+  "repo": "https://github.com/USER/my-app-repo.git",
+  "main_file": "my_app_app.py",
+  "dependencies": [],
+  "requires_img2bin": false,
+  "license": "MIT"
+}
