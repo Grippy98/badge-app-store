@@ -1,0 +1,13 @@
+{
+  "id": "weather",
+  "name": "Weather",
+  "version": "1.0.0",
+  "author": "Andrei Aldea",
+  "description": "Check current weather conditions",
+  "category": "tools",
+  "repo": "https://github.com/Grippy98/weather-app.git",
+  "main_file": "weather_app.py",
+  "dependencies": [],
+  "requires_img2bin": false,
+  "license": "MIT"
+}
