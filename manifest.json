@@ -1,12 +1,12 @@
 {
   "version": "1.0",
   "last_updated": "2026-02-04",
-  "store_url": "https://github.com/YOUR_ORG/badge-app-store",
+  "store_url": "https://github.com/Grippy98/badge-app-store",
   "apps": [
     {
       "id": "weather",
       "name": "Weather",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Andrei Aldea",
       "description": "Check current weather conditions",
       "category": "tools",
