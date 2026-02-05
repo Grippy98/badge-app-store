@@ -1,0 +1,13 @@
+{
+  "id": "photos",
+  "name": "Photos",
+  "version": "1.0.0",
+  "author": "Andrei Aldea",
+  "description": "Photo viewer with on-the-fly image conversion",
+  "category": "media",
+  "repo": "https://github.com/Grippy98/badge-photos.git",
+  "main_file": "photos_app.py",
+  "dependencies": [],
+  "requires_img2bin": true,
+  "license": "MIT"
+}

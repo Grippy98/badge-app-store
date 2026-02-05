@@ -1,0 +1,13 @@
+{
+  "id": "chiptunez",
+  "name": "ChipTunez",
+  "version": "1.0.0",
+  "author": "Andrei Aldea",
+  "description": "Chiptune music player with retro game songs",
+  "category": "media",
+  "repo": "https://github.com/Grippy98/badge-chiptunez.git",
+  "main_file": "chiptunez_app.py",
+  "dependencies": [],
+  "requires_img2bin": false,
+  "license": "MIT"
+}

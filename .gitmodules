@@ -4,3 +4,24 @@
 [submodule "apps/xkcd/app"]
 	path = apps/xkcd/app
 	url = https://github.com/Grippy98/xkcd-app.git
+[submodule "apps/smart-meter/app"]
+	path = apps/smart-meter/app
+	url = https://github.com/Grippy98/badge-smart-meter.git
+[submodule "apps/ev-charging/app"]
+	path = apps/ev-charging/app
+	url = https://github.com/Grippy98/badge-ev-charging.git
+[submodule "apps/flight-tracker/app"]
+	path = apps/flight-tracker/app
+	url = https://github.com/Grippy98/badge-flight-tracker.git
+[submodule "apps/photos/app"]
+	path = apps/photos/app
+	url = https://github.com/Grippy98/badge-photos.git
+[submodule "apps/dvd/app"]
+	path = apps/dvd/app
+	url = https://github.com/Grippy98/badge-dvd.git
+[submodule "apps/chiptunez/app"]
+	path = apps/chiptunez/app
+	url = https://github.com/Grippy98/badge-chiptunez.git
+[submodule "apps/tux-driver/app"]
+	path = apps/tux-driver/app
+	url = https://github.com/Grippy98/badge-tux-driver.git

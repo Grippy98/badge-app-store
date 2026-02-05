@@ -1,0 +1,13 @@
+{
+  "id": "dvd",
+  "name": "DVD Screensaver",
+  "version": "1.0.0",
+  "author": "Andrei Aldea",
+  "description": "Classic DVD logo bouncing screensaver animation",
+  "category": "apps",
+  "repo": "https://github.com/Grippy98/badge-dvd.git",
+  "main_file": "dvd_app.py",
+  "dependencies": [],
+  "requires_img2bin": false,
+  "license": "MIT"
+}

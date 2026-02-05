@@ -1,0 +1,13 @@
+{
+  "id": "tux-driver",
+  "name": "Tux Driver",
+  "version": "1.0.0",
+  "author": "Andrei Aldea",
+  "description": "Tux the Linux penguin driving simulation",
+  "category": "apps",
+  "repo": "https://github.com/Grippy98/badge-tux-driver.git",
+  "main_file": "tux_driver_app.py",
+  "dependencies": [],
+  "requires_img2bin": false,
+  "license": "MIT"
+}

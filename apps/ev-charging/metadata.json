@@ -1,0 +1,13 @@
+{
+  "id": "ev-charging",
+  "name": "EV Charging",
+  "version": "1.0.0",
+  "author": "Andrei Aldea",
+  "description": "EV charging station monitor with realistic charging curves",
+  "category": "demos",
+  "repo": "https://github.com/Grippy98/badge-ev-charging.git",
+  "main_file": "ev_charging_app.py",
+  "dependencies": [],
+  "requires_img2bin": true,
+  "license": "MIT"
+}

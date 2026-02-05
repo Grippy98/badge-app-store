@@ -1,0 +1,13 @@
+{
+  "id": "thermostat",
+  "name": "Thermostat",
+  "version": "1.0.0",
+  "author": "TI Badge",
+  "description": "Smart thermostat control and monitoring demo",
+  "category": "demo",
+  "repo": "https://github.com/Grippy98/thermostat-app.git",
+  "main_file": "thermostat_app.py",
+  "dependencies": [],
+  "requires_img2bin": false,
+  "license": "MIT"
+}
