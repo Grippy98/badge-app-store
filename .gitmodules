@@ -25,3 +25,6 @@
 [submodule "apps/tux-driver/app"]
 	path = apps/tux-driver/app
 	url = https://github.com/Grippy98/badge-tux-driver.git
+[submodule "apps/smart-meter/apppwd"]
+	path = apps/smart-meter/apppwd
+	url = https://github.com/Grippy98/badge-smart-meter.git

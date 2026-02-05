@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Andrei Aldea",
   "description": "Flight tracking and monitoring application",
-  "category": "demos",
+  "category": "demo",
   "repo": "https://github.com/Grippy98/badge-flight-tracker.git",
   "main_file": "flight_tracker_app.py",
   "dependencies": [],

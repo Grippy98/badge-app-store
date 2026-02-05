@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Andrei Aldea",
   "description": "Utility consumption dashboard for electricity, water, gas",
-  "category": "demos",
+  "category": "demo",
   "repo": "https://github.com/Grippy98/badge-smart-meter.git",
   "main_file": "smart_meter_app.py",
   "dependencies": [],
