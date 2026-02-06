@@ -10,13 +10,13 @@ Browse available apps in the [manifest.json](manifest.json) file, or use the App
 
 To contribute an app:
 
-1. Create your app following the [app structure guidelines](https://github.com/YOUR_ORG/badge-slop/blob/main/APP_STORE_SETUP.md)
+1. Create your app following the [app structure guidelines](https://github.com/Grippy98/badge-slop/blob/linux-wip/APP_STORE_SETUP.md)
 2. Host your app in a public git repository
 3. Submit a PR adding your app as a submodule in `apps/{your-app-id}/app`
 4. Include a `metadata.json` file in `apps/{your-app-id}/`
 5. Update the `manifest.json` file
 
-See [APP_STORE_SETUP.md](https://github.com/YOUR_ORG/badge-slop/blob/main/APP_STORE_SETUP.md) for detailed instructions.
+See [APP_STORE_SETUP.md](https://github.com/Grippy98/badge-slop/blob/linux-wip/APP_STORE_SETUP.md) for detailed instructions.
 
 ## App Categories
 
