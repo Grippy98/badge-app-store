@@ -28,3 +28,6 @@
 [submodule "apps/smart-meter/apppwd"]
 	path = apps/smart-meter/apppwd
 	url = https://github.com/Grippy98/badge-smart-meter.git
+[submodule "apps/fortune/app"]
+	path = apps/fortune/app
+	url = https://github.com/glneo/badge-fortune-app.git

@@ -132,6 +132,19 @@
       "dependencies": [],
       "requires_img2bin": false,
       "license": "MIT"
+    },
+    {
+      "id": "fortune",
+      "name": "Fortune Cookie",
+      "version": "1.0.0",
+      "author": "Andrew Davis",
+      "description": "Fetch and display a fortune",
+      "category": "apps",
+      "repo": "https://github.com/glneo/badge-fortune-app.git",
+      "main_file": "fortune.py",
+      "dependencies": [],
+      "requires_img2bin": false,
+      "license": "MIT"
     }
   ]
 }
