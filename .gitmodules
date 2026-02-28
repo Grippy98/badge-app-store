@@ -31,3 +31,6 @@
 [submodule "apps/fortune/app"]
 	path = apps/fortune/app
 	url = https://github.com/glneo/badge-fortune-app.git
+[submodule "apps/chess/app"]
+	path = apps/chess/app
+	url = https://github.com/yogeshhegde/badge-chess.git

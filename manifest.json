@@ -145,6 +145,19 @@
       "dependencies": [],
       "requires_img2bin": false,
       "license": "MIT"
+    },
+    {
+      "id": "chess",
+      "name": "Chess",
+      "version": "1.0.0",
+      "author": "Yogesh Hegde",
+      "description": "Play a game of chess offline",
+      "category": "apps",
+      "repo": "https://github.com/yogeshhegde/badge-chess.git",
+      "main_file": "chess.py",
+      "dependencies": [],
+      "requires_img2bin": false,
+      "license": "GPLv3"
     }
   ]
 }
